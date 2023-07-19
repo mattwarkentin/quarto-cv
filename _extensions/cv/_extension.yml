@@ -23,6 +23,7 @@ contributes:
       documentclass: article
       mainfont: Arial
       fontsize: 12pt
+      linestretch: 1.25
       geometry:
         - 'margin=1.5cm'
         - 'footskip=0.25in'
