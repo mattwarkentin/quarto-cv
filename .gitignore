@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.pdf
+*.html
+*.docx
+*.log
+*.aux
+template.tex
+template.pdf
+template.docx
+template.html
+template.native
+template_files/
+/.luarc.json
+.DS_Store
