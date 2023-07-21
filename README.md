@@ -38,7 +38,9 @@ format:
 
 - `orcid` - ORCID identifier
 
-- `logo` - Should the University of Calgary logo be included on the first page? `true` or `false` (default is `false`)
+- `scholar` - Google Scholar identifier
+
+- `logo` - Relative path to a logo that should be included in the top right corner of the first page?
 
 - `section-rules` - Should section rules (i.e., lines) be included after top-level headers? `true` or `false` (default is `false`)
 

@@ -23,7 +23,6 @@ contributes:
       section-rules: false
       fontawesome: true
       updated: true
-      logo: false
       pdf-engine: lualatex
       documentclass: article
       mainfont: Arial
