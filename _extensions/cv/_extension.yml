@@ -4,6 +4,7 @@ version: 0.0.1
 contributes:
   format:
     common:
+      engine: knitr
       toc: false
       number-sections: false
       execute:
@@ -19,15 +20,19 @@ contributes:
       urlcolor: blue
       filecolor: blue
     pdf:
+      section-rules: false
+      fontawesome: true
+      updated: true
+      logo: true
       pdf-engine: lualatex
       documentclass: article
       mainfont: Arial
       fontsize: 12pt
       linestretch: 1.25
       geometry:
-        - 'margin=1.5cm'
-        - 'footskip=0.25in'
+        - 'margin=2cm'
+        - 'footskip=0.3in'
       template-partials:
         - 'partials/title.tex'
         - 'partials/before-body.tex'
-      include-in-header: header.tex
+      include-in-header: config/header.tex
