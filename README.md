@@ -1,4 +1,4 @@
-# Quarto Curriculum Vitate Extension
+# Quarto Curriculum Vitae Extension
 
 This repository contains a simple curriculum vitae (CV) format for the Quarto technical publishing system.
 
